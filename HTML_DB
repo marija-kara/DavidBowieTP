@@ -1,0 +1,17 @@
+
+<div id="main" >
+<head>
+ <h1 id="title" >David Bowie</h1>
+  <p1>"I don't know where I'm going from here, but I promise it won't be boring"</p1><br><br></head>
+  <body>
+<div id="img-div">  <img id="image" class="image-size" src="https://i.imgur.com/0aIx362.jpg" alt="David Bowie"><br>
+  <p2 id="img-caption">-David Bowie-<br>the infinitely changeable, fiercely forward-looking songwriter who taught generations of musicians about the power of drama</p2>
+  </div><br>
+  <div  id="tribute-info" class="fulltext" >
+  <p3 > David Robert Jones (8 January 1947 – 10 January 2016), known professionally as David Bowie (/ˈboʊi/ BOH-ee),[2] was an English singer-songwriter and actor. He was a leading figure in the music industry and is considered one of the most influential musicians of the 20th century.<br><br>He was acclaimed by critics and musicians, particularly for his innovative work during the 1970s. His career was marked by reinvention and visual presentation, with his music and stagecraft having a significant impact on popular music. <br><br>During his lifetime, his record sales, estimated at over 100 million records worldwide, made him one of the world's best-selling music artists. In the UK, he was awarded ten platinum album certifications, eleven gold and eight silver, and released eleven number-one albums. In the US, he received five platinum and nine gold certifications. He was inducted into the Rock and Roll Hall of Fame in 1996.<br><br>Mr. Bowie wrote songs, above all, about being an outsider: an alien, a misfit, a sexual adventurer, a faraway astronaut. His music was always a mutable blend — rock, cabaret, jazz and what he called “plastic soul” — but it was suffused with genuine soul. He also captured the drama and longing of everyday life, enough to give him No. 1 pop hits like “Let’s Dance.”<br><br>
+    The cliché about David Bowie is that he was a musical chameleon, adapting himself according to fashion and trends.
+  </p3></div>
+<br><p4>Click <a id="tribute-link"  href="https://youtu.be/fY79rZTHeoU" target="_blank">here to listen </a> some of his greatest hits.</p4>
+</body>
+</div>
+</html>
