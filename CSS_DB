@@ -1,0 +1,26 @@
+.image-size{width:35%;
+}
+.fulltext{
+    border: 2px solid #000;
+    border-radius: 5px;
+    margin: 2px 30px 2px 30px;
+  padding: 20px 20px 20px 20px ;}
+
+body{text-align:center;
+font-family:'Architects Daughter', cursive;
+background:#DCDCDC;}
+
+h1{font-size:55px;
+font-weight:900;
+  color:#ff7f30;
+}
+p1{font-size:20px;
+color:#ff7f30;}
+
+p3{font-size:18px;
+}
+
+p4{text-decoration: underline double orange;}
+a{text-decoration: underline double orange;}
+
+<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
